@@ -9,7 +9,7 @@ Let's help newer developers get their berrings in the complicated world of web d
 
 What?
 
-A massive poster. Something you can stick on your wall and stand in front of for an hour. Something people can hand out at conferences or gift you if you say you're starting to learn. A work of art that you're proud of having up.
+A massive poster, like 70"x50" or something like that. Something you can stick on your wall and stand in front of for an hour. Something people can hand out at conferences or gift you if you say you're starting to learn. A work of art that you're proud of having up.
 
 Qualities:
 - Fun
