@@ -1,4 +1,4 @@
-# web-dev-overview
+# web-dev-map
 Our goal: Create a high-level overview visualization of web development in 2018. Like looking out of a plain at a city below.
 
 ## Why?
