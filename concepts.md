@@ -1,16 +1,16 @@
-*Languages
-*Components of a web app
-*Examples of architecture of some web apps
-What are Microservices?
-Meaning of Web vs Native vs…
-SPA's
-PWA’s
-Offline
-Object Oriented vs Imperative
-TypeScript, CoffeeScript, ES6
-Routing
-URL’s
-URL vs URI
+* Languages
+* Components of a web app
+* Examples of architecture of some web apps
+* What are Microservices?
+* Meaning of Web vs Native vs…
+* SPA's
+* PWA’s
+* Offline
+* Object Oriented vs Imperative
+* TypeScript, CoffeeScript, ES6
+* Routing
+* URL’s
+* URL vs URI
 
 Latency
 Average time it takes to build a basic note app for newbie vs experienced person
