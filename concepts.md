@@ -1,6 +1,6 @@
-Languages
-Components of a web app
-Examples of architecture of some web apps
+*Languages
+*Components of a web app
+*Examples of architecture of some web apps
 What are Microservices?
 Meaning of Web vs Native vs…
 SPA's
