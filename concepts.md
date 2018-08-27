@@ -1,3 +1,10 @@
+Tasks:
+ [] Add initial content
+ [] Bucket
+ [] Collect feedback content
+ [] Organize content
+
+
 Definitions:
 * Languages
 * Components of a web app
