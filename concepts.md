@@ -9,6 +9,12 @@ Definitions:
 * Routing
 * URL’s
 * URL vs URI
+* Open-Source
+* Responsive
+* Cross-Browser
+* MVC
+* Front-end vs Back-end
+* API’s
 
 Types of projects:
 * SPA's
@@ -31,9 +37,6 @@ Debugging
     - Why
     - How
 
-* Front-end vs Back-end
-* API’s
-
 * Front-end frameworks (React, Vue, Angular, etc)
 * UI frameworks (semantic, Bootstrap, etc)
 * CSS Grid vs Flexbox
@@ -42,6 +45,11 @@ Debugging
 * Back-end tools
 * Serverless
 * Javascript server tools (Node, Yarn)
+* MySQL
+* AWS
+* Apache
+* NGINX
+* MongoDB
 
 Teams/Work
 * Biggest job opportunities right now (Senior, or Junior, etc)
@@ -51,11 +59,27 @@ Teams/Work
 * What does each team do?
 * What does a developers life look like?
 * Most interesting developer office
+* Agile / Scrum
+* Job Grades:
+    - Entry
+    - Junior
+    - Senior
+* Job Types:
+    - Data Scientists
+    - Front-End Developer
+    - Back-End Developer
+    - Full-Stack Developer
+    - Computer Programmer
+    - Software Developer
+    - DevOps / SysAdmin
+    - Quality Assurance
+    - Mobile Developer
 
-AI/ML
+Futuristic
 * AI/ML libraries
 * Chatbots
 * Node Maps
+* Quantum?
 
 Tools
 * Common Text editors (Vim, VS Code, Atom, Eclipse)
@@ -78,24 +102,12 @@ Tools
     - Treehouse
     - YouTube
 
-
 ********
 
 **Unbucketed concepts:**
-* How does Quantum fit in?
-* Data Scientists
-* MVC
-* MySQL
-* PHP
-* AWS
-* Apache
-* NGINX
+
 * jQuery
 * Redis
-* Testing
+
 * Ruby
-* MongoDB
-* Open-Source
-* Responsive
-* Cross-Browser
-* Agile Scrum
+* PHP
