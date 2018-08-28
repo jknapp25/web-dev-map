@@ -1,6 +1,10 @@
+The content in this file will feed the visualizations that we will later create.
+
+<hr>
+
 Tasks:
 - [X] Add initial content
-- [ ] Bucket
+- [X] Bucket
 - [ ] Collect feedback content
 - [ ] Organize content
 
@@ -50,6 +54,7 @@ Debugging
 * CSS Grid vs Flexbox
 * Design Patterns
 
+Back-End
 * Back-end tools
 * Serverless
 * Javascript server tools (Node, Yarn)
@@ -58,6 +63,7 @@ Debugging
 * Apache
 * NGINX
 * MongoDB
+* Task Runners
 
 Teams/Work
 * Biggest job opportunities right now (Senior, or Junior, etc)
@@ -93,9 +99,14 @@ Tools
 * Common Text editors (Vim, VS Code, Atom, Eclipse)
 * Repository tools
 
+Content Management Systems (CMS)
+* Define
 * Wordpress
+
+Popular Operating Systems
 * Linux
-* Task Runners
+* Mac
+* Windows
 
 * Where to get help?
     - Physical
