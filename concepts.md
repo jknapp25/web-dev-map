@@ -110,7 +110,7 @@ Tools
     - Treehouse
     - YouTube
 
-********
+<hr>
 
 **Unbucketed concepts:**
 
