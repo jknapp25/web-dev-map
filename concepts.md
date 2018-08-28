@@ -1,4 +1,4 @@
-The content in this file will feed the visualizations that we will later create.
+**The content in this file will feed the visualizations that we will later create.**
 
 <hr>
 
