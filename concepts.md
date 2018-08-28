@@ -38,7 +38,11 @@ Testing
 * Latency
 * Average time it takes to build a basic note app for newbie vs experienced person
 * Website speed testing tools
-* Most used browsers ranked
+* Popular browsers ranked
+    - Google
+    - Firefox
+    - Internet Explorer
+    - Duck, Duck, Go
 * User experience expectations
     - Page Load times
 * How to decrease page load times
@@ -71,6 +75,7 @@ Teams/Work
 * Average pay and variance
 * Standard Team set-up/groups
 * What does each team do?
+* How do developers fit in the larger team?
 * What does a developers life look like?
 * Most interesting developer office
 * Agile / Scrum
@@ -89,7 +94,7 @@ Teams/Work
     - Quality Assurance
     - Mobile Developer
 
-Futuristic
+New / Futuristic
 * AI/ML libraries
 * Chatbots
 * Node Maps
@@ -107,6 +112,7 @@ Popular Operating Systems
 * Linux
 * Mac
 * Windows
+
 
 * Where to get help?
     - Physical
