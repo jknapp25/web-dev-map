@@ -4,6 +4,7 @@ Tasks:
 - [ ] Collect feedback content
 - [ ] Organize content
 
+<hr>
 
 Definitions:
 * Languages
