@@ -2,7 +2,7 @@ Tasks:
  [] Add initial content
  [] Bucket
  [] Collect feedback content
- [ ] Organize content
+  [ ] Organize content
 
 
 Definitions:
